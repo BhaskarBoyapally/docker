@@ -1,0 +1,5 @@
+in\bhaskar\BookRepository.class
+in\bhaskar\ServletInitializer.class
+in\bhaskar\Application.class
+in\bhaskar\binding\Book.class
+in\bhaskar\controller\BookController.class
